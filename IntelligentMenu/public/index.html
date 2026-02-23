@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍽️</text></svg>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="AI-powered menu search with typo tolerance"
+    />
+    <title>Menu Search - AI Powered</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              primary: {
+                50: '#f0f9ff',
+                500: '#3b82f6',
+                600: '#2563eb',
+                700: '#1d4ed8'
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    
+    <!-- React and ReactDOM from CDN -->
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+    <!-- Babel for JSX transformation -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <!-- Axios for HTTP requests -->
+    <script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+    
+    <!-- Load our React components -->
+    <script type="text/babel" src="src/components/MenuCard.js"></script>
+    <script type="text/babel" src="src/components/SearchBar.js"></script>
+    <script type="text/babel" src="src/App.js"></script>
+    <script type="text/babel" src="src/index.js"></script>
+  </body>
+</html>

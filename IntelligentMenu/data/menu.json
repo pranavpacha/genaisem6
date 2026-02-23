@@ -1,0 +1,141 @@
+{
+  "restaurant": "Spice Palace",
+  "date": "2025-07-08",
+  "items": [
+    {
+      "id": 1,
+      "name": "Masala Dosa",
+      "description": "Crispy South Indian crepe filled with spiced potato curry",
+      "category": "South Indian",
+      "price": 80,
+      "ingredients": ["rice", "urad dal", "potatoes", "onions","tomatoes","mustard seeds", "curry leaves", "turmeric"],
+      "dietary_info": ["vegetarian", "gluten-free", "vegan"]
+    },
+    {
+      "id": 2,
+      "name": "Chicken Tikka Masala",
+      "description": "Tender marinated chicken in rich creamy tomato curry",
+      "category": "North Indian",
+      "price": 320,
+      "ingredients": ["chicken", "tomatoes", "cream", "onions", "garlic", "ginger", "garam masala", "cashews"],
+      "dietary_info": ["contains dairy"]
+    },
+    {
+      "id": 3,
+      "name": "Biryani",
+      "description": "Fragrant basmati rice cooked with spiced mutton and aromatic herbs",
+      "category": "Biryani",
+      "price": 450,
+      "ingredients": ["basmati rice", "mutton", "onions", "Elaichi", "saffron", "sherwah", "biryani masala"],
+      "dietary_info": ["contains dairy"]
+    },
+    {
+      "id": 4,
+      "name": "Palak Paneer",
+      "description": "Fresh cottage cheese cooked in creamy spinach gravy",
+      "category": "North Indian",
+      "price": 280,
+      "ingredients": ["spinach", "paneer", "cream", "onions", "garlic", "ginger", "cumin"],
+      "dietary_info": ["vegetarian", "contains dairy"]
+    },
+    {
+      "id": 5,
+      "name": "Idli Sambar",
+      "description": "The King of Breakfast! : Steamed rice cakes served with lentil curry , Kaara chutney & coconut chutney",
+      "category": "South Indian",
+      "price": 120,
+      "ingredients": ["rice", "urad dal", "toor dal", "vegetables", "tamarind", "curry leaves", "coconut"],
+      "dietary_info": ["vegetarian", "gluten-free", "vegan"]
+    },
+    {
+      "id": 6,
+      "name": "Butter Chicken",
+      "description": "Succulent chicken in silky tomato-butter sauce",
+      "category": "North Indian",
+      "price": 350,
+      "ingredients": ["chicken", "tomatoes", "butter", "cream", "cashews", "fenugreek", "garam masala"],
+      "dietary_info": ["contains dairy"]
+    },
+    {
+      "id": 7,
+      "name": "Chole Bhature",
+      "description": "Spiced chickpea curry with fluffy fried bread",
+      "category": "North Indian",
+      "price": 200,
+      "ingredients": ["chickpeas", "wheat flour", "onions", "tomatoes", "ginger-garlic", "chole masala"],
+      "dietary_info": ["vegetarian", "contains gluten"]
+    },
+    {
+      "id": 8,
+      "name": "Fish Curry",
+      "description": "Kerala-style fish cooked in coconut milk with curry leaves",
+      "category": "South Indian",
+      "price": 380,
+      "ingredients": ["fish", "coconut milk", "curry leaves", "mustard seeds", "turmeric", "green chilies"],
+      "dietary_info": ["pescatarian", "gluten-free"]
+    },
+    {
+      "id": 9,
+      "name": "Aloo Gobi",
+      "description": "Dry curry of potatoes and cauliflower with aromatic spices",
+      "category": "North Indian",
+      "price": 160,
+      "ingredients": ["potatoes", "cauliflower", "onions", "tomatoes", "turmeric", "cumin", "coriander"],
+      "dietary_info": ["vegetarian", "vegan", "gluten-free"]
+    },
+    {
+      "id": 10,
+      "name": "Gulab Jamun",
+      "description": "Soft milk dumplings soaked in cardamom-flavored sugar syrup",
+      "category": "Desserts",
+      "price": 80,
+      "ingredients": ["milk powder", "flour", "sugar", "cardamom", "rose water", "ghee"],
+      "dietary_info": ["vegetarian", "contains dairy", "contains gluten"]
+    },
+    {
+      "id": 11,
+      "name": "Tandoori Chicken",
+      "description": "Marinated chicken roasted in traditional clay oven",
+      "category": "Tandoori",
+      "price": 400,
+      "ingredients": ["chicken", "yogurt", "red chili", "garam masala", "ginger-garlic", "lemon"],
+      "dietary_info": ["contains dairy", "gluten-free"]
+    },
+    {
+      "id": 12,
+      "name": "Rajma Rice",
+      "description": "Kidney bean curry served with steamed basmati rice",
+      "category": "North Indian",
+      "price": 220,
+      "ingredients": ["kidney beans", "basmati rice", "onions", "tomatoes", "ginger-garlic", "rajma masala"],
+      "dietary_info": ["vegetarian", "vegan", "gluten-free"]
+    },
+    {
+      "id": 13,
+      "name": "Pani Puri",
+      "description": "Crispy hollow shells filled with spiced water and chutneys",
+      "category": "Street Food",
+      "price": 100,
+      "ingredients": ["semolina", "tamarind water", "mint chutney", "chickpeas", "potatoes", "spices"],
+      "dietary_info": ["vegetarian", "vegan"]
+    },
+    {
+      "id": 14,
+      "name": "Malai Kofta",
+      "description": "Fried cottage cheese balls in rich creamy curry",
+      "category": "North Indian",
+      "price": 300,
+      "ingredients": ["paneer", "potatoes", "cream", "tomatoes", "cashews", "raisins", "garam masala"],
+      "dietary_info": ["vegetarian", "contains dairy"]
+    },
+    {
+      "id": 15,
+      "name": "Rava Uthapam",
+      "description": "Thick South Indian pancake made with semolina and vegetables",
+      "category": "South Indian",
+      "price": 150,
+      "ingredients": ["semolina", "yogurt", "onions", "tomatoes", "green chilies", "curry leaves", "mustard seeds"],
+      "dietary_info": ["vegetarian", "contains dairy"]
+    }
+  ]
+}
